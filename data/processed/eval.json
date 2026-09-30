@@ -1,0 +1,94 @@
+[
+  {
+    "id": "syn_001",
+    "question": "Who directed the film starring Marie Curie that won a Nobel Prize?",
+    "answer": "Marie Noëlle",
+    "type": "bridge",
+    "supporting_facts": [
+      [
+        "Marie Curie (film)",
+        0
+      ],
+      [
+        "Nobel Prize in Physics",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Marie Curie (film)",
+        [
+          "Marie Curie: The Courage of Knowledge is a 2016 biographical film directed by Marie Noëlle."
+        ]
+      ],
+      [
+        "Nobel Prize in Physics",
+        [
+          "The Nobel Prize in Physics is awarded by the Royal Swedish Academy of Sciences."
+        ]
+      ],
+      [
+        "Albert Einstein",
+        [
+          "Albert Einstein developed the theory of relativity."
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "syn_002",
+    "question": "What city is the headquarters of the company that makes iPhone?",
+    "answer": "Cupertino",
+    "type": "bridge",
+    "supporting_facts": [
+      [
+        "Apple Inc.",
+        0
+      ],
+      [
+        "Cupertino",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Apple Inc.",
+        [
+          "Apple Inc. is an American multinational technology company headquartered in Cupertino, California."
+        ]
+      ],
+      [
+        "Cupertino",
+        [
+          "Cupertino is a city in Santa Clara County, California."
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "syn_003",
+    "question": "In what country was the author of Harry Potter born?",
+    "answer": "United Kingdom",
+    "type": "bridge",
+    "supporting_facts": [
+      [
+        "J. K. Rowling",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "J. K. Rowling",
+        [
+          "J. K. Rowling is a British author born in Yate, Gloucestershire, England."
+        ]
+      ],
+      [
+        "Harry Potter",
+        [
+          "Harry Potter is a series of seven fantasy novels written by J. K. Rowling."
+        ]
+      ]
+    ]
+  }
+]

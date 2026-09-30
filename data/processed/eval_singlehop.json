@@ -1,0 +1,28 @@
+[
+  {
+    "id": "syn_003",
+    "question": "In what country was the author of Harry Potter born?",
+    "answer": "United Kingdom",
+    "type": "bridge",
+    "supporting_facts": [
+      [
+        "J. K. Rowling",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "J. K. Rowling",
+        [
+          "J. K. Rowling is a British author born in Yate, Gloucestershire, England."
+        ]
+      ],
+      [
+        "Harry Potter",
+        [
+          "Harry Potter is a series of seven fantasy novels written by J. K. Rowling."
+        ]
+      ]
+    ]
+  }
+]
